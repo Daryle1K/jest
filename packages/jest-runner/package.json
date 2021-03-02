@@ -21,7 +21,7 @@
     "@jest/types": "^26.6.2",
     "@types/node": "*",
     "chalk": "^4.0.0",
-    "emittery": "^0.7.1",
+    "emittery": "^0.8.1",
     "exit": "^0.1.2",
     "graceful-fs": "^4.2.4",
     "jest-config": "^26.6.3",
